@@ -1,1 +1,1 @@
-print("git and github")
+print("git and github workshop")
